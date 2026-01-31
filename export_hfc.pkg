@@ -1,3 +1,4 @@
 v 1.0
 d export_hfc: Export dataset to Excel with "varname: label" headers
 f export_hfc.ado
+f export_hfc.sthlp
